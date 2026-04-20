@@ -16,7 +16,7 @@ This video demonstrates the main functionalities of the system:
 
 <video src="docs/system_demo_vba.mp4" controls width="700"></video>
 
-[▶️ Download or watch the video](docs/system_demo_vba.mp4)
+[![Watch the demo](https://img.youtube.com/vi/IUj1ImkYP1w/0.jpg)](https://youtu.be/IUj1ImkYP1w)
 
 ---
 
