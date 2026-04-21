@@ -96,7 +96,7 @@ This separation improves maintainability and scalability.
 ### Installation
 
 ```bash
-git clone https://github.com/alienfibio-25/vba_client_order_management_system_beta.git
+git clone https://github.com/pablo-vc87/vba_client_order_management_system_beta.git
 cd vba_client_order_management_system_beta
 ```
 
@@ -196,5 +196,5 @@ This project is licensed under the MIT License.
 
 ## 📞 Contact
 
-* Author: [Pablo A. V. Calva](https://github.com/alienfibio-25)
-* Project: [GitHub Repository](https://github.com/alienfibio-25/vba_client_order_management_system_beta)
+* Author: [Pablo A. V. Calva](https://github.com/pablo-vc87)
+* Project: [GitHub Repository](https://github.com/pablo-vc87/vba_client_order_management_system_beta)
